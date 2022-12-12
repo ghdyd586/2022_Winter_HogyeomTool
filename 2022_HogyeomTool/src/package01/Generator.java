@@ -20,7 +20,7 @@ import javax.swing.JTextField;
 public class Generator extends JFrame {
 	Generator() {
 		setSize(500, 320);
-		setTitle("Program Info");
+		setTitle("Generator");
 		Container d = getContentPane();
 		d.setBackground(Color.WHITE);
 		setLayout(new GridLayout(5, 0));

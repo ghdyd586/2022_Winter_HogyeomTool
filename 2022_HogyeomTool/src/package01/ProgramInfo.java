@@ -27,9 +27,9 @@ public class ProgramInfo extends JFrame {
 		p2.setBackground(Color.WHITE);
 
 		JTextArea jta1 = new JTextArea("About This Program");
-		JTextArea jta2 = new JTextArea("                                   ----Developer Info----\n"
-				+ "Name : Hoyong Jeong\n" + "School : Kookmin University,Seoul,Korea.Republic of.\n"
-				+ "Nationality : Korean\n" + "Phone : +8210-7194-1870\n" + "Github : https://github.com/ghdyd586");
+		JTextArea jta2 = new JTextArea("----Developer Info----\n" + "Name : Hoyong Jeong\n"
+				+ "School : Kookmin University,Seoul,Korea.Republic of.\n" + "Nationality : Korean\n"
+				+ "Phone : +8210-7194-1870\n" + "Github : https://github.com/ghdyd586");
 
 		jta1.setBackground(Color.WHITE);
 		jta1.setEditable(false);
